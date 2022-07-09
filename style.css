@@ -113,12 +113,12 @@ span {
   }
 
   .card {
-    height: auto;
     background-color: white;
     border-radius: 0.6rem;
     display: inline;
-    max-height: 90vh;
+    height: 80%;
     min-width: 90%;
+    overflow: hidden;
   }
   .img-cont {
     height: 60%;
