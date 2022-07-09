@@ -8,4 +8,5 @@ This challenege took in a design and made it as close as possible to the origina
 
 - HTML
 - CSS
-# product-card
+
+## Live page: https://luismrosales.github.io/product-card/
