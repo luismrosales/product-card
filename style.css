@@ -116,10 +116,11 @@ span {
     background-color: white;
     border-radius: 0.6rem;
     display: inline;
-    height: 80%;
     min-width: 90%;
+    height: auto;
     overflow: hidden;
   }
+
   .img-cont {
     height: 60%;
     min-width: 100%;
